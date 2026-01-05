@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210325059796",
+    "project_id": "hydro-guard-pro",
+    "storage_bucket": "hydro-guard-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210325059796:android:1c59ddf11896965edc2341",
+        "android_client_info": {
+          "package_name": "com.example.hydro_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2zXNc77Uz4rleX09YRHykiU2RTwsHU38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

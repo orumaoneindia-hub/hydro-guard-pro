@@ -1,0 +1,30 @@
+name: hydro_guard_app
+description: "A professional waterproofing management app for Hydro Guard Pro"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: any
+  cloud_firestore: any
+  pdf: ^3.10.7
+  printing: ^5.11.1
+  image_picker: ^1.0.4
+  gallery_saver: ^2.3.2
+  flutter_rating_bar: ^4.0.1
+  intl: ^0.18.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
